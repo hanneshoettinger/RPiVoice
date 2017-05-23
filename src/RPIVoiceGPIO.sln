@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPIVoiceGPIO", "RPIVoiceGPIO\RPIVoiceGPIO.csproj", "{E1978080-53EF-4538-A47F-0B52A4B4FDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|ARM.Build.0 = Debug|ARM
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|x64.ActiveCfg = Debug|x64
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|x64.Build.0 = Debug|x64
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|x64.Deploy.0 = Debug|x64
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|x86.ActiveCfg = Debug|x86
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|x86.Build.0 = Debug|x86
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Debug|x86.Deploy.0 = Debug|x86
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|ARM.ActiveCfg = Release|ARM
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|ARM.Build.0 = Release|ARM
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|ARM.Deploy.0 = Release|ARM
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|x64.ActiveCfg = Release|x64
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|x64.Build.0 = Release|x64
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|x64.Deploy.0 = Release|x64
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|x86.ActiveCfg = Release|x86
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|x86.Build.0 = Release|x86
+		{E1978080-53EF-4538-A47F-0B52A4B4FDBD}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
